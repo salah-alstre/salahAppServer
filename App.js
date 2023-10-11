@@ -1,6 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const StudentModule = require("./modules/student.modules");
+const Routs = require("./routes/Routs");
 
 
 const app = express ();
@@ -61,6 +62,8 @@ app.get ("/app" , (req ,res) =>{
       res.status(200).json(students)
     })
   })
+
+  app.use("/", Routs);
   
   module.exports = app;
   
