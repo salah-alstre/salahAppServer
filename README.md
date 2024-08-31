@@ -25,15 +25,15 @@ SalahAppServer is a server for a salon appointment booking application designed 
    
 ## Navigate to the project directory:
 
-cd salahAppServer
+    cd salahAppServer
 
 ## Install dependencies:
 
-npm install
+    npm install
 
 ## Running the Server
 
-npm start
+    npm start
 
 # Usage
 Book an Appointment: Clients can book appointments via the provided API endpoints.
