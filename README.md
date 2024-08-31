@@ -36,5 +36,5 @@ SalahAppServer is a server for a salon appointment booking application designed 
     npm start
 
 # Usage
-- ## Book an Appointment: Clients can book appointments via the provided API endpoints.
-- ## Manage Appointments: Administrators can view and modify booked appointments.
+-  ## Book an Appointment: Clients can book appointments via the provided API endpoints.
+-  ## Manage Appointments: Administrators can view and modify booked appointments.
