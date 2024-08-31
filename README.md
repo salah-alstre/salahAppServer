@@ -19,7 +19,7 @@ SalahAppServer is a server for a salon appointment booking application designed 
 
 ### Steps
 
-1. Clone this repository:
+## 1. Clone this repository:
    ```bash
    git clone https://github.com/salah-alstre/salahAppServer.git
    
@@ -27,11 +27,11 @@ SalahAppServer is a server for a salon appointment booking application designed 
 
         cd salahAppServer
 
- 3. Install dependencies:
+## 3. Install dependencies:
 
         npm install
 
- 4. Running the Server
+## 4. Running the Server
 
         npm start
 
