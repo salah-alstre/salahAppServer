@@ -41,4 +41,4 @@ SalahAppServer is a server for a salon appointment booking application designed 
 
 
 ## Contact
-For any inquiries or support, please reach out to us via email at: [error.salah59@gmail.com].
+For any inquiries or support, please reach out to us via email at: [email](mailto:error.salah59@gmail.com).
