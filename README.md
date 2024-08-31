@@ -17,7 +17,7 @@ SalahAppServer is a server for a salon appointment booking application designed 
 - [Node.js](https://nodejs.org/) 14.x or higher
 - [MongoDB](https://www.mongodb.com/) as the database
 
-### Steps
+### installation
 
 1. Clone this repository:
    ```bash
