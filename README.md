@@ -41,6 +41,5 @@ SalahAppServer is a server for a salon appointment booking application designed 
 
 
 ## Contributing
-We welcome contributions from the community! If you wish to contribute, please open a Pull Request with a description of your changes. See CONT for more details.
+We welcome contributions from the community! If you wish to contribute, please send us an email with a description of the changes you have made or any suggestions you have. You can reach us at [
 
-Feel free to adjust any section as needed, especially the links for documentation and user guides, and ensure that `CONTRIBUTING.md` and `LICENSE` files are present in your repository if you reference them. If you have any more details or adjustments, just let me know!
