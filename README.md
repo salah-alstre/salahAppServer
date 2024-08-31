@@ -40,6 +40,5 @@ SalahAppServer is a server for a salon appointment booking application designed 
 -  ## Manage Appointments: Administrators can view and modify booked appointments.
 
 
-## Contributing
-We welcome contributions from the community! If you wish to contribute, please send us an email with a description of the changes you have made or any suggestions you have. You can reach us at [
-
+## Contact
+For any inquiries or support, please reach out to us via email at: [error.salah59@gmail.com].
